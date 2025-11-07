@@ -5,6 +5,7 @@ import react from '@vitejs/plugin-react';
 export default defineConfig(({ mode }) => {
     const env = loadEnv(mode, '.', '');
     return {
+      base: '/Tutorial-Visual-de-Codificadores-de-ML/',
       server: {
         port: 3000,
         host: '0.0.0.0',
