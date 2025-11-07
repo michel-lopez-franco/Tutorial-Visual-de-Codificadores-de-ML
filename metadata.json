@@ -1,0 +1,5 @@
+{
+  "name": "Tutorial de Codificadores de ML en Python",
+  "description": "Una aplicación web visual e interactiva para aprender las diferencias entre pd.get_dummies, LabelEncoder, OneHotEncoder y ColumnTransformer en Python para preprocesamiento de datos en Machine Learning.",
+  "requestFramePermissions": []
+}
